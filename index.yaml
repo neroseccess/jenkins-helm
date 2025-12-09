@@ -9,6 +9,6 @@ entries:
     name: jenkins
     type: application
     urls:
-    - https://github.com/neroseccess/jenkins-helm.git/jenkins-0.1.0.tgz
+    - https://neroseccess.github.io/jenkins-helm/jenkins-0.1.0.tgz
     version: 0.1.0
 generated: "2025-12-09T18:37:24.392919028Z"
