@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  jenkins:
+  - apiVersion: v2
+    appVersion: lts
+    created: "2025-12-09T18:37:24.394201851Z"
+    description: Jenkins Helm chart converted from jenkins.yaml
+    digest: 627546c2838eda70462a719947ca9630e68ac380443a999cc4dec0c74dacf311
+    name: jenkins
+    type: application
+    urls:
+    - https://github.com/neroseccess/jenkins-helm.git/jenkins-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-12-09T18:37:24.392919028Z"
